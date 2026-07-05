@@ -1,0 +1,29 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+.vscode/
+launchSettings.json
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+.env.local
+
+# Docker
+pgdata/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+*.swp
+*.swo
+.idea/
